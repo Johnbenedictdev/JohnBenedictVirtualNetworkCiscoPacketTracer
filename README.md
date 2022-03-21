@@ -1,5 +1,5 @@
 # JohnBenedictVirtualNetworkCiscoPacketTracer
-This is the repository of John Benedict Ocampo Divinagracia for the virtual network he is building for his Mobile Technologies module (5N0580). 
+This is the repository of John Benedict Ocampo Divinagracia for the virtual network he is setting up for his Mobile Technologies module (5N0580). 
 
 As per request of the teacher the following documents were added:
     1) Steps taken screenshots (steps taken in order to make the virtual network)
